@@ -29,7 +29,10 @@
 <img src="https://user-images.githubusercontent.com/108832640/181866691-aec8b149-8a09-42f3-9ac2-dd965ad1fae6.png" title="FINAL FANTASY XIV" alt="FINAL FANTASY XIV"/> </a>
     <a href="https://www.bungie.net/7/en/destiny/newlight" target="_blank">
 <img src="https://user-images.githubusercontent.com/108832640/181866997-484256cb-9891-48cb-a786-302659400eae.png" title="DESTINY 2" alt="DESTINY 2"/> </a>
+  <a href="https://www.guildwars2.com/en/" target="_blank">
+<img src="https://user-images.githubusercontent.com/108832640/181867066-be7ea15a-1ea5-4161-931c-d2afff658b07.png" title="GUILD WARS 2" alt="GUILD WARS 2" height="40px"/> </a>
   
+
 
 
 
