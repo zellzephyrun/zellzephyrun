@@ -17,7 +17,9 @@
   <img align="center" src="https://user-images.githubusercontent.com/108832640/181862218-6834b715-e8c3-45f2-b6b5-cdc94e53770e.png" height="40">
     <img align="center" src="https://user-images.githubusercontent.com/108832640/181862289-bd8b1f98-628e-4a59-adb4-3ddfa9fd4286.png" height="40">
      <img align="center" src="https://user-images.githubusercontent.com/108832640/181997056-59700b8f-ad9d-4ac4-902a-84c1e014f338.png" height="40">
-  
+     <img align="center" src="https://user-images.githubusercontent.com/108832640/181997105-5211e89c-03e0-4875-9d06-5911be5b7086.png" height="40">
+
+
 </p>
 
 <h3> My name is Henrique Cardoso de Santana, I'm from Brazil 🇧🇷 and an aspiring Junior Developer 💻 but studying programming in a daily basis. <br> You are free to check out my repos 📔, specially if you are a recruiter because I am open to work! 😄 <br><br> </h3>
