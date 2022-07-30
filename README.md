@@ -6,7 +6,7 @@
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zellzephyrun&show_icones=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zellzephyrun&layout=compact&show_icones=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
 
 <p align="center">
-  <h1 align="center"> :wave: HELLO! :wave: </h1>
+  <h1 align="center"> 👋 HELLO! 👋 </h1>
 </p>
 
 <p align="center">
@@ -18,3 +18,5 @@
     <img align="center" src="https://user-images.githubusercontent.com/108832640/181862289-bd8b1f98-628e-4a59-adb4-3ddfa9fd4286.png" height="40">
   
 </p>
+
+<h3> My name is Henrique Cardoso de Santana, I'm from Brazil 🇧🇷 and almost done with my Computer Science major 💻 but studying programming in a daily basis <br> You are free to check out my repos 📔, specially if you are a recruiter because I am open to work! 😄 </h3>
