@@ -31,7 +31,10 @@
 <img src="https://user-images.githubusercontent.com/108832640/181866997-484256cb-9891-48cb-a786-302659400eae.png" title="DESTINY 2" alt="DESTINY 2"/> </a>
   <a href="https://www.guildwars2.com/en/" target="_blank">
 <img src="https://user-images.githubusercontent.com/108832640/181867066-be7ea15a-1ea5-4161-931c-d2afff658b07.png" title="GUILD WARS 2" alt="GUILD WARS 2" height="40px"/> </a>
+    <a href="https://civilization.com/" target="_blank">
+<img src="https://user-images.githubusercontent.com/108832640/181867180-3e9b41b7-2449-4642-9d03-f36951a025dd.png" title="Sid Meier's CIVILIZATION VI" alt="Sid Meier's CIVILIZATION VI" height="40px"/> </a>
   
+
 
 
 
