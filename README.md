@@ -19,4 +19,5 @@
   
 </p>
 
-<h3> My name is Henrique Cardoso de Santana, I'm from Brazil 🇧🇷 and almost done with my Computer Science major 💻 but studying programming in a daily basis <br> You are free to check out my repos 📔, specially if you are a recruiter because I am open to work! 😄 </h3>
+<h3> My name is Henrique Cardoso de Santana, I'm from Brazil 🇧🇷 and almost done with my Computer Science major 💻 but studying programming in a daily basis <br> You are free to check out my repos 📔, specially if you are a recruiter because I am open to work! <br><br> 😄 </h3>
+<h2> ABOUT ME: <br> </h2>
