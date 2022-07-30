@@ -6,7 +6,7 @@
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zellzephyrun&show_icones=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zellzephyrun&layout=compact&show_icones=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
 
 <p align="center">
-  <h1> :wave: HELLO! :wave: </h1>
+  <h1 align="center"> :wave: HELLO! :wave: </h1>
 </p>
 
 <p align="center">
