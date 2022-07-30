@@ -24,4 +24,5 @@
 <p> BIRTH: April 30th 2000, Salvador-Bahia-Brazil. <br> ETHNICITY: Black. <br> PRONOUNS: He/Him. <br> EDUCATION: Computer Science Major. (ongoing) <br> </p>
 
 <h3 align="center"> I play videogames too. Find me at: </h3>
-<a target="_blank" href="https://icons8.com/icon/cnMg2fya1dIR/final-fantasy-xiv">Final Fantasy XIV</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<img align="center" src:"https://user-images.githubusercontent.com/108832640/181866533-ac564506-f914-4437-b1a7-fd945262d014.png" height=40 target="_blank" href="https://na.finalfantasyxiv.com/endwalker/">
+
