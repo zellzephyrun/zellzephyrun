@@ -24,6 +24,7 @@
 <p> BIRTH: April 30th 2000, Salvador-Bahia-Brazil. <br> ETHNICITY: Black. <br> PRONOUNS: He/Him. <br> EDUCATION: Computer Science Major. (ongoing) <br> </p>
 
 <h3 align="center"> I play videogames too. Find me at: </h3>
-<img align="center" src:"https://user-images.githubusercontent.com/108832640/181866556-99d92378-e52b-4c16-bcab-2330150f82ff.png" height=40>
+<p align="center">
+<img align="center" src:"https://user-images.githubusercontent.com/108832640/181866556-99d92378-e52b-4c16-bcab-2330150f82ff.png" height="40">
 
-
+</p>
