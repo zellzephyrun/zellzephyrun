@@ -27,9 +27,10 @@
 <p align="center">
   <a href="https://na.finalfantasyxiv.com/endwalker/" target="_blank">
 <img src="https://user-images.githubusercontent.com/108832640/181866691-aec8b149-8a09-42f3-9ac2-dd965ad1fae6.png" title="FINAL FANTASY XIV" alt="FINAL FANTASY XIV"/> </a>
-    <a href="https://na.finalfantasyxiv.com/endwalker/" target="_blank">
-<img src="https://user-images.githubusercontent.com/108832640/181866691-aec8b149-8a09-42f3-9ac2-dd965ad1fae6.png" title="FINAL FANTASY XIV" alt="FINAL FANTASY XIV"/> </a>
+    <a href="https://www.bungie.net/7/en/destiny/newlight" target="_blank">
+<img src="https://user-images.githubusercontent.com/108832640/181866997-484256cb-9891-48cb-a786-302659400eae.png" title="DESTINY 2" alt="DESTINY 2"/> </a>
   
+
 
 
 </p>
