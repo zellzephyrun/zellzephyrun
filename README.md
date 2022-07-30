@@ -23,7 +23,7 @@
 <h2> ABOUT ME: <br> </h2>
 <p> BIRTH: April 30th 2000, Salvador-Bahia-Brazil. <br> ETHNICITY: Black. <br> PRONOUNS: He/Him. <br> EDUCATION: Computer Science Major. (ongoing) <br> </p>
 
-<h3 align="center"> I play videogames too. Find me at: </h3>
+<h3 align="center"> I play videogames too. </h3>
 <p align="center">
   <a href="https://na.finalfantasyxiv.com/endwalker/" target="_blank">
 <img src="https://user-images.githubusercontent.com/108832640/181866691-aec8b149-8a09-42f3-9ac2-dd965ad1fae6.png" title="FINAL FANTASY XIV" alt="FINAL FANTASY XIV"/> </a>
@@ -35,6 +35,12 @@
 <img src="https://user-images.githubusercontent.com/108832640/181867180-3e9b41b7-2449-4642-9d03-f36951a025dd.png" title="Sid Meier's CIVILIZATION VI" alt="Sid Meier's CIVILIZATION VI" height="40px"/> </a>
       <a href="https://multiversus.com/en" target="_blank">
 <img src="https://user-images.githubusercontent.com/108832640/181867360-d57c2dbb-3656-486d-b8df-2dbdfd38f11a.png" title="MULTIVERSUS" alt="MULTIVERSUS" height="40px"/> </a>
+        <a href="https://en.bandainamcoent.eu/elden-ring/elden-ring" target="_blank">
+<img src="https://user-images.githubusercontent.com/108832640/181867528-0ed4cc74-283d-4d8a-b109-c699dfada9c8.png" title="ELDEN RING" alt="ELDEN RING" height="40px"/> </a>
+          <a href="https://www.warframe.com/landing" target="_blank">
+<img src="https://user-images.githubusercontent.com/108832640/181867576-5d5887e2-48a0-4c72-8648-e8a157bf2a80.png" title="WARFRAME" alt="WARFRAME" height="40px"/> </a>
+
+
 
 
 
