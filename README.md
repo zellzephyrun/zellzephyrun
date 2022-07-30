@@ -38,7 +38,7 @@
         <a href="https://en.bandainamcoent.eu/elden-ring/elden-ring" target="_blank">
 <img src="https://user-images.githubusercontent.com/108832640/181867528-0ed4cc74-283d-4d8a-b109-c699dfada9c8.png" title="ELDEN RING" alt="ELDEN RING" height="40px"/> </a>
           <a href="https://www.warframe.com/landing" target="_blank">
-<img src="https://user-images.githubusercontent.com/108832640/181867576-5d5887e2-48a0-4c72-8648-e8a157bf2a80.png" title="WARFRAME" alt="WARFRAME" height="40px"/> </a>
+<img src="https://user-images.githubusercontent.com/108832640/181867626-77596edc-c673-410c-8f72-4c6f68974881.png" title="WARFRAME" alt="WARFRAME" height="40px"/> </a>
 
 
 
