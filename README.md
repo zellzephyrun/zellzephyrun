@@ -25,7 +25,7 @@
 
 <h3 align="center"> I play videogames too. Find me at: </h3>
 <p align="center">
-  <a align="center" target="blank" href="https://na.finalfantasyxiv.com/endwalker/">
+  <a align="center" href="https://na.finalfantasyxiv.com/endwalker/" target="_blank">
 <img src="https://user-images.githubusercontent.com/108832640/181866691-aec8b149-8a09-42f3-9ac2-dd965ad1fae6.png" title="FINAL FANTASY XIV" alt="FINAL FANTASY XIV"/> </a>
   
 
