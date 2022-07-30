@@ -25,6 +25,6 @@
 
 <h3 align="center"> I play videogames too. Find me at: </h3>
 <p align="center">
-<img align="center" src:"https://user-images.githubusercontent.com/108832640/181866556-99d92378-e52b-4c16-bcab-2330150f82ff.png" height="40">
+<img src="https://img.icons8.com/nolan/64/final-fantasy-xiv.png"/>
 
 </p>
